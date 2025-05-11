@@ -17,10 +17,13 @@ A simple and complete real-world food ordering mobile app built using React Nati
 
 ## 📲 Screenshots
 
-<!-- Upload your screenshots in a folder called `/assets` and link them here like below -->
-<img src="file:///Users/vijaykumar/Downloads/miniFoodOrderingApp.svg/cart_screen2.jpg" width="250" />
-![Image](https://github.com/user-attachments/assets/c8a73e7b-678e-4e33-bb01-ab13d6263ee2)
-<img src="./assets/cart_screen2.jpg" width="250" />
+<img src="./assets/homeScreen.jpg" width="250" />
+<img src="./assets/menu_pizza.jpg" width="250" />
+<img src="./assets/menu_biriyani.jpg" width="250" />
+<img src="./assets/cart.jpg" width="250" />
+<img src="./assets/cupon_screen.jpg" width="250" />
+<img src="./assets/order_confirmation.jpg" width="250" />
+
 
 ## 🛠️ Setup Instructions
 

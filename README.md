@@ -1,27 +1,46 @@
-Mini Food Ordering App
+# 🍽️ Mini Food Ordering App
 
-Description
+A simple and complete real-world food ordering mobile app built using React Native and Firebase.
 
-The Mini Food Ordering App is a complete real-world application where users can browse a menu, add items to their cart, and place an order. The app uses Firebase as the backend to store menu items and order history. It also provides a 25% discount with a coupon code “VIJAY”.
+## 🚀 Tech Stack
 
-Tech Stack
-	•	Frontend: React Native
-	•	Backend: Firebase
+- **Frontend:** React Native (via Expo)
+- **Backend & Database:** Firebase (Firestore)
 
-Key Features
-	•	Cart Icon: Displays the number of items in the cart on the home screen.
-	•	Coupon Code: Use the coupon code “VIJAY” to get 25% off on your order.
-	•	Dynamic Menu: Menu items and categories are fetched from Firebase.
+## ✨ Key Features
 
-Setup Instructions
-	1.	Clone the repository.
-	2.	Install dependencies using npm install or yarn install.
-	3.	Run the project with expo start.
-	4.	Scan the QR code using the Expo Go app to view the app on your mobile device.
+- 🛒 Add to Cart with item count badge
+- 📦 Order History stored in Firebase
+- 🍔 View Menu Items by Category
+- 💸 Use Coupon Code `VIJAY` to get 25% off
+- ⚙️ Easily add/edit menu or categories via Firebase
 
-Screenshots
+## 📲 Screenshots
 
-Include screenshots of the app here:
+<!-- Upload your screenshots in a folder called `/assets` and link them here like below -->
+<img src="file:///Users/vijaykumar/Downloads/miniFoodOrderingApp.svg/cart_screen2.jpg" width="250" />
+<img src="./assets/cart.png" width="250" />
+<img src="./assets/checkout.png" width="250" />
 
-[miniFoodOrderingApp.zip](https://github.com/user-attachments/files/20139261/miniFoodOrderingApp.zip)
+## 🛠️ Setup Instructions
 
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/mvijaykumar2820/miniFoodOrderingApp.git
+   cd miniFoodOrderingApp
+2. Install dependencies:
+   ```bash
+   npm install
+3. Start the app (Expo):
+   ```bash
+   npx expo start
+4. Scan the QR code with Expo Go app on your mobile.
+
+🔐 Firebase
+	•	Firebase handles real-time menu display and order history.
+	•	You can add new items or categories directly in Firebase.
+
+🙋‍♂️ Author
+	•	Moodavath Vijay Kumar
+	•	GitHub
+	•	Email: mvijaykumar2820@gmail.com

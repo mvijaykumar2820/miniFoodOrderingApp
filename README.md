@@ -48,6 +48,9 @@ A simple and complete real-world food ordering mobile app built using React Nati
 🔐 Firebase
 	•	Firebase handles real-time menu display and order history.
 	•	You can add new items or categories directly in Firebase.
+ <img src="./assets/categories.jpg" width="200" />
+ <img src="./assets/menuItems.jpg" width="200" />
+ <img src="./assets/orders.jpg" width="200" />
 
 🙋‍♂️ Author
 	•	Moodavath Vijay Kumar

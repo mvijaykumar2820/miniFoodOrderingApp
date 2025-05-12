@@ -54,5 +54,4 @@ A simple and complete real-world food ordering mobile app built using React Nati
 
 🙋‍♂️ Author
 	•	Moodavath Vijay Kumar
-	•	GitHub
 	•	Email: mvijaykumar2820@gmail.com
